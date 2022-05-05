@@ -1,6 +1,6 @@
 **Student ID: 1080915 & 1079686**
 
-##Overview
+## Overview
 Human pose recognition, and related tasks like gesture recognition and action recognition, are important
 tasks for AI systems that interact with people. There are many algorithms for classifying pose;
 for example, deep convolutional neural networks can be trained to classify pose directly from images.
@@ -12,7 +12,7 @@ In this project, we implement a supervised na¨ıve Bayes learner to classify po
 provided by a deep convolutional neural network. You will train, test, and evaluate the classifier
 on a provided dataset, and then we use it to answer some conceptual questions about na¨ıve Bayes.
 
-##Instructions:
+## Instructions:
 Run the functions in order:
 First import the libraries, then run
 preprocess -> train -> gaussian -> predict -> evaluate
