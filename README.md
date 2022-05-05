@@ -13,7 +13,7 @@ provided by a deep convolutional neural network. We train, test, and evaluate th
 on a provided dataset, and then we use it to answer some conceptual questions about na¨ıve Bayes.
 
 ## Instructions:
-* Run the functions in order:
+* Run the functions in order:</br>
 First import the libraries, then run
 preprocess -> train -> gaussian -> predict -> evaluate
 At the end, assign the datasets and then implement the functions to get the prediction accuracy
