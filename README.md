@@ -7,7 +7,7 @@ for example, deep convolutional neural networks can be trained to classify pose 
 However, these methods tend to be “black boxes” and it’s difficult to understand what features they
 are using. Another approach, which we will use in this Project, uses neural networks to first identify
 keypoints corresponding to the main parts of the body (as shown above), and then learns to recognize
-pose based on the positions of these body parts.
+pose based on the positions of these body parts.<\br>
 In this project, we implement a supervised na¨ıve Bayes learner to classify pose from keypoints
 provided by a deep convolutional neural network. You will train, test, and evaluate the classifier
 on a provided dataset, and then we use it to answer some conceptual questions about na¨ıve Bayes.
